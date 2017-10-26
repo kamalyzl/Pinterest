@@ -1,0 +1,140 @@
+body{
+    text-align: center;
+    margin: 0;
+}
+
+a { 
+    font-family: 'Merriweather', serif;
+    text-decoration: none;
+    padding: 17px;
+    background: #ab8b6f;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    color: white;  
+    
+}
+
+li{
+    display: inline-block;
+    
+       
+}
+
+nav {
+    text-align: center;
+    margin-top: 30px;
+}
+
+/*Modificando tamaño de icnonos*/
+[class^="icon-"], [class*="icon-"] {
+    font-size: 20px;
+}
+
+.icon-right {
+        font-size: 45px;
+        color: gray;
+    }
+.icon-chevron-down {
+    font-size: 25px;
+    position: absolute;
+    top: 9px;
+    right: 6px;
+}
+
+
+.icon-cross {
+    font-size: 12px;
+    position: absolute;
+    right: 86px;
+    top: 15px;
+}
+
+.icon-brand186 {
+    font-size: 34px;
+}
+
+.icon-search {
+    padding-left: 33px;
+    font-size: 17px;
+
+}
+
+
+div {
+    display: inline-block;
+    margin: 0px;
+    margin-right: 19px;
+    margin-top: -2px;
+}
+ 
+
+
+
+input {
+    width: 881px;
+    padding: 8px 1px 5px 0px;
+    background: #efefef;
+    font-size: 18px;
+    border: 0px solid;
+  
+}
+
+img{
+    border-radius: 11px;
+    width: 300px;
+}
+
+section{
+    display: inline-block;
+    margin-left: 6%;
+    margin-right: 3%;
+  
+
+}
+figure{
+    display: inline-block;
+    padding-top: 125px;
+    margin-left: 2px;
+    margin-right: 1px;
+  
+ 
+}
+
+header{
+    margin-bottom: 23px;
+
+}
+
+p {
+    display: inline;
+    font-weight: bold;
+    right: 26px;
+    /* left: 12px; */
+    position: absolute;
+    top: -4px;
+}
+
+header {
+    position: fixed;
+    background: rgb(253, 253, 253);
+    display: block;
+    width: 100%;
+    height: 136px;
+}
+
+.input-text {
+   
+    background: #efefef;
+    border-radius: 4px;
+    position: relative;
+}
+
+
+
+from {
+    margin-top: 2px;
+}
+
+
+
